@@ -10,7 +10,7 @@ import subprocess
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key=("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")
+    api_key=("ENTER_YOUR_KEY_HERE")
 )
 
 prompt_template = """Z obrázku s matematickým výrazem rozpoznaným OCR:
