@@ -62,7 +62,7 @@ client = OpenAI(
 python agent.py
 ```
 
-2. Vlož obrázek se zadáním (např. fotku integrálu) do složky `input/`.
+2. Vlož txt dokument se zadáním (např. \int_{0}^{1} \frac{\ln(1+x)}{x^{2}+1} \, dx) do složky `input/`.
 
 3. Automaticky se:
    - spustí OCR a LLM,
